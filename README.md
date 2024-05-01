@@ -17,10 +17,17 @@
       5. sudo systemctl status grafana-server
       6. sudo systemctl enable grafana-server
       7. open at http://localhost:3000
+  
+         
+4. Install apache kafka
+   Download     $ tar -xzf kafka_2.13-3.7.0.tgz
+                $ cd kafka_2.13-3.7.0
+   Start the kafka
+               $ bin/zookeeper-server-start.sh config/zookeeper.properties
+               $ bin/kafka-server-start.sh config/server.properties
      
 3. Installing metaflow
-4. 
-       1. pip install metaflow
+          1. pip install metaflow
 
 
    **Live Stock Price**
@@ -32,5 +39,7 @@
 
    Prediction Analysis on DLF
    ![image](https://github.com/xrcwrn/stock_time_series/assets/5010715/535f0393-48d5-4218-8b92-9a878e6b06c8)
+
+
 
 

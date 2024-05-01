@@ -21,7 +21,7 @@
      
               http://localhost:8086/
 
-   2. Installing Grafana
+2. Installing Grafana
 
       1. wget -q -O - https://packages.grafana.com/gpg.key | sudo apt-key add -
       2. sudo add-apt-repository "deb https://packages.grafana.com/oss/deb stable main"
@@ -30,5 +30,5 @@
       5. sudo systemctl status grafana-server
       6. sudo systemctl enable grafana-server
      
-    3. Installing metaflow
+3. Installing metaflow
        1. pip install metaflow

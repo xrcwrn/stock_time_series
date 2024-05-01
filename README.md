@@ -30,3 +30,7 @@
    Nifty 50 and DLF
     ![image](https://github.com/xrcwrn/stock_time_series/assets/5010715/d62fd3f2-a92c-4378-b6b6-a0296e89a99a)
 
+   Prediction Analysis on DLF
+   ![image](https://github.com/xrcwrn/stock_time_series/assets/5010715/535f0393-48d5-4218-8b92-9a878e6b06c8)
+
+

@@ -1,6 +1,8 @@
 # stock_time_series
 
-#Installation
+
+**
+#Installation**
 
 1. Install InfluxDB 
 
@@ -35,13 +37,13 @@
 3. Installing metaflow
           1. pip install metaflow
    
-#High level Design
+**#High level Design**
 
 ![image](https://github.com/xrcwrn/stock_time_series/assets/5010715/fe98dbfd-c816-4492-9848-6ead284ed941)
 
 
 
-#Outout
+**#Outout**
 
    **Live Stock Price**
    TataSteel Limited

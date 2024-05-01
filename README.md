@@ -10,11 +10,10 @@
        2.  Start the InfluxDB service
      
                sudo service influxdb start
+                
+       3.  To verify the service
      
-           
-       4.  To verify the service
-     
-        sudo service influxdb status
+               sudo service influxdb status
      
         
        4.  Opening Influx in browser

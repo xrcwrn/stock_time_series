@@ -20,8 +20,10 @@
   
          
 4. Install apache kafka
+   
    Download     $ tar -xzf kafka_2.13-3.7.0.tgz
                 $ cd kafka_2.13-3.7.0
+   
    Start the kafka
                $ bin/zookeeper-server-start.sh config/zookeeper.properties
                $ bin/kafka-server-start.sh config/server.properties

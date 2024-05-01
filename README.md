@@ -22,10 +22,10 @@
 4. 
        1. pip install metaflow
 
-   
-![image(1)](https://github.com/xrcwrn/stock_time_series/assets/5010715/39fa0dd8-a2e6-4b54-990a-5f2cc9afaf6b)
 
+   **Live Stock Price**
+    ![image(1)](https://github.com/xrcwrn/stock_time_series/assets/5010715/39fa0dd8-a2e6-4b54-990a-5f2cc9afaf6b)
 
-   
-![image](https://github.com/xrcwrn/stock_time_series/assets/5010715/d62fd3f2-a92c-4378-b6b6-a0296e89a99a)
+  
+    ![image](https://github.com/xrcwrn/stock_time_series/assets/5010715/d62fd3f2-a92c-4378-b6b6-a0296e89a99a)
 

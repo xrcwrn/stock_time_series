@@ -1,5 +1,7 @@
 # stock_time_series
 
+#Installation
+
 1. Install InfluxDB 
 
       1. Download curl -O https://download.influxdata.com/influxdb/releases/influxdb2_2.7.6-1_amd64.deb 
@@ -25,12 +27,21 @@
                 $ cd kafka_2.13-3.7.0
    
    Start the kafka
+   
                $ bin/zookeeper-server-start.sh config/zookeeper.properties
+   
                $ bin/kafka-server-start.sh config/server.properties
      
 3. Installing metaflow
           1. pip install metaflow
+   
+#High level Design
 
+![image](https://github.com/xrcwrn/stock_time_series/assets/5010715/fe98dbfd-c816-4492-9848-6ead284ed941)
+
+
+
+#Outout
 
    **Live Stock Price**
    TataSteel Limited
